@@ -39,11 +39,6 @@ Full-stack e-commerce application with product management, shopping cart, and pa
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yug77&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 🔗 Connect With Me
 
