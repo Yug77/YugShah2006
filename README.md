@@ -8,7 +8,7 @@ Passionate about building intelligent applications and pushing the boundaries of
 
 ## 🎯 About Me
 
-⚡ **Computer Engineering Graduate** with ML/AI specialization (CGPA: 9.91)  
+⚡ **Computer Engineering Graduate** with ML/AI specialization (GPA: 3.96)  
 🤖 **AI/ML Engineering Focus** — LLM-powered tools, deep learning, and intelligent systems  
 🔬 **Currently Learning** — Advanced AI/ML techniques and emerging LLM architectures  
 💡 **Fun Fact** — Always ready to push my limits and learn new technologies  
@@ -49,7 +49,7 @@ Full-stack e-commerce application with product management, shopping cart, and pa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-shah-?)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yug77)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yugshah677@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](yugshah677@gmail.com)
 
 ---
 
