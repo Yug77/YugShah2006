@@ -1,93 +1,86 @@
 # 👋 Hi, I'm Yug Shah
 
-## Python Developer | AI & Machine Learning | Full-Stack Developer
+**AI/ML Engineer | Python Developer | LLM Enthusiast**
 
-Welcome to my GitHub!
-
-I'm passionate about building AI-powered applications, computer vision systems, and full-stack web solutions. I enjoy solving real-world problems with Python, Machine Learning, and modern web technologies.
+Passionate about building intelligent applications and pushing the boundaries of AI/ML. Currently seeking opportunities to apply cutting-edge AI solutions in real-world problems.
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-- 🎓 Diploma in Computer Engineering
-- 💻 Python Developer
-- 🤖 Interested in AI, Machine Learning & Computer Vision
-- 🌐 Full-Stack Web Developer
-- 📍 New York, USA
-- 📚 Currently learning advanced AI and scalable backend development
+⚡ **Computer Engineering Graduate** with ML/AI specialization (CGPA: 9.91)  
+🤖 **AI/ML Engineering Focus** — LLM-powered tools, deep learning, and intelligent systems  
+🔬 **Currently Learning** — Advanced AI/ML techniques and emerging LLM architectures  
+💡 **Fun Fact** — Always ready to push my limits and learn new technologies  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- JavaScript
-- HTML5
-- CSS3
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-### Frameworks
-- Flask
-- FastAPI
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### AI / Machine Learning
-- PyTorch
-- OpenCV
-- VGG19
-- Random Forest
-- PCA
+### AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=python&logoColor=white)
 
-### Database
-- MySQL
-- SQLite
-
-### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 AI Website Builder
-An AI-powered web application that generates responsive websites from user prompts using LLM APIs.
+### 📸 Image Tampering Detection
+Deep learning system using VGG19 and steganography to detect manipulated images. Built for forensic analysis and content verification.
 
-**Tech:** Python, Flask, FastAPI, HTML, CSS, JavaScript
+### 🎨 Asterisks Web AI Tool
+LLM-powered web builder leveraging prompt engineering and intelligent UI generation. Internship project at Rainbow IT Services.
 
----
-
-### 🛡 Image Tampering Detection System
-
-AI-powered image authentication system using VGG19 feature extraction, Random Forest classification, AES encryption, and LSB steganography.
-
-**Tech:** Python, PyTorch, OpenCV
+### 🛒 TechStore E-Commerce Platform
+Full-stack e-commerce application with product management, shopping cart, and payment integration. Demonstrates end-to-end development expertise.
 
 ---
 
-### 🛒 TechStore E-Commerce
+## 📊 GitHub Stats
 
-Full-stack e-commerce application with authentication, shopping cart, checkout, PDF invoice generation, and email integration.
-
-**Tech:** Flask, SQLite, HTML, CSS, JavaScript
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yug77&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### 📊 Other Projects
+## 🔗 Connect With Me
 
-- Interactive Map
-- GDP Dashboard
-- Water Quality Prediction
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: yugshah677@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yug-shah-/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-shah-?)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yug77)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+## 💼 Looking For
+
+**Opportunities in:**
+- AI/ML Engineering roles
+- LLM-powered application development
+- Full-stack AI solutions
+- Open-source AI/ML contributions
+
+Let's build something amazing together! 🚀
+
+---
+
+<div align="center">
+
+**Currently Open to Opportunities** | **Always Learning** | **Ready to Collaborate**
+
+</div>
